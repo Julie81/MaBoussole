@@ -1,0 +1,2 @@
+rootProject.name='MaBoussole'
+include ':app'
